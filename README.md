@@ -48,9 +48,9 @@ plt.legend()
 plt.show()
 ```
 # Output Waveform
-```
-<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/6550b92b-e357-4547-b1fd-97892ddbc5a9" />
-```
+
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/b540af54-83af-4552-8131-14c96eef7ac3" />
+
 # Results
 ```
 Attach the output waveform
