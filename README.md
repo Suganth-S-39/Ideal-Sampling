@@ -3,7 +3,7 @@
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
 # Program
-
+```
 #Ideal Sampling
 
 import numpy as np
@@ -46,7 +46,7 @@ plt.ylabel('Amplitude')
 plt.grid(True)
 plt.legend()
 plt.show()
-
+```
 # Output Waveform
 ```
 Attach the output waveform
