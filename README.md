@@ -209,7 +209,7 @@ plt.show()
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/0a5ef57b-c136-47b7-bd5e-c1b0c6ba3ad5" />
 
 # Results
-```
-Attach the output waveform
-```
+
+Hence, the Python programs for ideal sampling, natural sampling, and flat-top sampling were successfully implemented and verified
+
 # Hardware experiment output waveform.
