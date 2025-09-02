@@ -204,7 +204,6 @@ plt.tight_layout()
 plt.show()
 
 ```
-
 # Output Waveform
 
 # Ideal Sampling
@@ -217,7 +216,6 @@ plt.show()
 
 # Flat-top Sampling
 <img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/24177e48-a012-4153-90fd-67719ded8767" />
-
 
 # Results
 
