@@ -222,5 +222,3 @@ plt.show()
 # Results
 
 Hence, the Python programs for ideal sampling, natural sampling, and flat-top sampling were successfully implemented and verified
-
-# Hardware experiment output waveform.
